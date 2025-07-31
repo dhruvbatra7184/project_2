@@ -1,0 +1,150 @@
+body{ padding: 0px; margin: 0px;  background-color:rgba(252, 181, 0, 0.256);}
+:root {--golden:rgb(163, 119, 24); --black:#141414; --light-golden:rgba(252, 181, 0, 0.303);}
+a{ text-decoration: none; }
+ul{padding:0 ;margin: 0;}
+ul li{ list-style: none;}
+.blog-heading { margin:10px 0px; padding: 10px 0px;}
+.textdecore h3,h1 { color: white;}
+.textdecore span{ color: var(--golden);}
+.textdecore1{ text-align: left; margin:20px 10px; padding: 10px;}
+.textdecore1 h3,h1 { color:rgb(0, 0, 0); }
+.textdecore1 span{ color: var(--golden);}
+.logo{ width: 105px;}
+#section2{ background-color: black; padding: 10px;}
+.nav-item a{ color: white;}
+.nav-item{ margin-left: 25px;}
+.nav-item a:hover{ color: white; background-color: var(--golden); border-radius: 5px;}
+.dropdown-item{ background-color: black;}
+.dropdown-item:hover{ color:white; background-color:var(--golden); border-radius:5px;}
+.navbar-toggler-icon{ background-color: white;}
+.btn{ background-color:var(--golden); color:white; font-weight: bold; border: 0.4px solid white;}
+.btn:hover{ background-color:white; color:black;}
+.ac{ margin: 10px;
+padding: 10px;}
+.bbt{  margin-left: 120px;}
+
+.bbbt{ margin: 10px; padding: 10px;}
+.bbbbt{ margin-top: 20px ; margin-left: 20px;}
+
+.frmm{ padding: 40px 10px;}
+
+.room-text p{ word-spacing:9px; margin: 10px; padding: 10px; text-align: justify;}
+.room-img{ margin: 10px ; padding: 10px;}
+.border-line{ background-color: var(--golden); width: 100px;}
+
+.slider-img { position: relative;  height: 800px;}
+.itemg{background-color: black; width: 100%; height:100% ; position:absolute; top: 0px; opacity:0.5;}
+.item-text{ position:absolute;  top: 300px; left: 100px; }
+.item-text h1{ color: white; word-spacing: 10px; font-weight: bold; font-size: 60px;}
+.room-service{ margin: 50px 0px; padding: 10px;}
+.room-form{background-color: var(--light-golden); padding: 20px; border-radius: 20px; width: 800px;}
+#section1{ background-color: var(--golden); padding: 10px; }
+#section1 a{ color: white; font-size: 17px;}
+#section1 i{ font-size: 25px;}
+.icons i{ padding: 0px 20px;}
+.heding{ margin: 40px 10px; padding: 10px; }
+.heding h1{ color: var(--golden);}
+.owl-dots{display: none; }
+.bg{ background-image:linear-gradient(rgba(159, 120, 21, 0.721)), url(../images/bghotel.png); background-repeat: no-repeat; background-size: cover; height:auto; margin: 10px; padding: 10px; border-radius: 10px; color: white;}
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 370px;
+  perspective: 1000px;
+  margin: 10px; 
+  padding: 10px;
+}
+.offer-text{ text-align: justify; margin: 100px 0px; padding: 20px;}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+
+.dropdown-menu{ background-color: rgb(0, 0, 0);}
+.flip-card-back {
+  background-color:var(--golden);
+  color: white;
+  transform: rotateY(180deg);
+  padding: 30px;
+}
+.flip-card-back h3{ padding:10px;}
+
+.room-slider{ margin: 10px; padding: 10px;}
+#footer{ margin-top: 40px; background-color:rgb(146, 104, 13); color: white; height:auto;}
+.zz1 p { word-spacing: 10px;}
+.zz1 li{ margin-left: -32px; }
+.zz2{margin:50px 0px ; padding:50px 0px ; margin-bottom: 0px; padding-bottom: 0px;}
+.zz1{ padding: 10px; margin:10px;}
+.cxc a i{ color: white; padding: 18px; padding-left: 0px; font-size: 25px;}
+.cxc a i:hover{ color: black;}
+.zz1 h4{ font-weight: bold;}
+.nav-link{ font-weight:700;}
+.icons a i:hover{ color: black;}
+.offer-text h5{ padding:10px 60px; word-spacing: 10px; font-weight:600;}
+.offer-text h1{ color: white;}
+.textdecore4 h5{ font-weight: 700; font-size: 20px;}
+.zzz1{ text-align: center; padding: 10px; background-color: var(--light-golden);}
+.de{ background-color:var(--golden); color: white; padding: 5px; font-size: 20px; margin:  10px 0px;}
+.navbar-nav{ margin-left:69px;}
+.main-bg-text{ position: absolute; top:100px;  left: 300px;}
+.main-bg-text h1 { color: white;}
+.main-bg-img{ position: relative;}
+.team-text { text-align: center; margin: 10px; padding: 20px; background-color: var(--golden); color: white; border-radius: 10px;}
+.team-text:hover{background-color:var(--light-golden); color: black;   transition: all 0.8s ease; }
+.team-text p{ text-align: justify;}
+.team-text img{ border-radius: 100%;}
+.team-text:hover img{  transition: all 0.8s ease; scale:1.1;}
+.team-text h4{ margin: 5px; padding: 5px;}
+.team-text a i{ padding:10px 15px; color: rgb(255, 255, 255); font-size: 20px;}
+.team-text a i:hover{ color: var(--black);}
+.about-description-text{ margin: 10px; padding: 10px;}
+.blog-text{ margin:40px 0px; padding: 10px;}
+.frm-blog{ background-color: var(--golden); color: white; padding: 20px; border-radius: 10px; margin: 10px;}
+.blog-list a li{ margin-left: -30px; color: black;}
+.blog-list a li:hover{ color: var(--golden);}
+.blog-img{ margin: 10px; padding: 10px;}
+.blog-img img{ border-radius: 10px;}
+.frm2{ margin: 10px; padding: 10px;}
+.page_text{ margin: 10px; padding: 10px;}
+.page_text2{ overflow-y: scroll; height: 920px;}
+.page_text1 ,h3 ,p { margin:10px 0px; }
+.page_text1 p{padding: 5px 0px;}
+.page_text1 h3{ color: var(--golden);}
+.dropdown:hover .dropdown-menu{ display: block;}
+.seccccc{ background-image:linear-gradient(rgba(160, 116, 6, 0.865)), url(../images/page6.jpg); background-size: cover; background-repeat: no-repeat; border-radius: 10px; color: white;}
+
+
+
+
+@media only screen and (max-width: 620px) {
+.nav-item { margin: 0px;}
+.navbar-nav{ margin: 10px; padding: 10px;}
+.bbt{ margin: 10px; padding: 10px;}
+.item-text{top: 100px; left: 40px;}
+#section1 a{ font-size: 19px; font-weight:600;}
+.zz1{ margin: 10px; padding: 10px;}
+.offer-text{ padding: 10px ; margin: 10px;}
+.offer-text h5{ padding: 10px; margin: 10px;}
+.item-text h1{ font-size: 40px;}
+.slider-img{ height: auto;}
+.zz2{ margin: 10px ; padding: 10px;}
+.main-bg-text { top:5px; left:10px; margin: 10px; padding: 10px;}
+}

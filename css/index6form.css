@@ -1,0 +1,11 @@
+body{ margin: 0; padding: 0;}
+.container h4 { text-align: center; }
+body{background:linear-gradient(rgba(0, 0, 0, 0.555) , rgba(0,0,0,0.555));}
+.form1 form{ display: inline-block;}
+.container { border-radius: 10px;   background-color: white; margin: 550px; margin-top: 60px; padding: 5px;  box-shadow:1px 1px 1px 2px gray;}
+.text1 h4{ border-bottom: 1px solid; margin: 10px; padding: 5px; text-align: left;}
+.form1{ padding: 10px;  }
+.form2{ padding: 10px;  border-bottom: 1px solid; }
+.form1 input{ font-size: 20pxpx;  width: 350px;padding: 5px;}
+.btn button{ background-color:#fdcc2d; width: 100px; margin: 10px; padding: 10px; }
+.btn{ text-align: right;}

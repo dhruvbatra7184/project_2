@@ -1,0 +1,54 @@
+body{ margin: 0; padding: 0; font-size: 15px;}
+.clearfix{clear: both;} 
+#page1{width: 100%; background-color: #F5FAFD;}
+.container{ width: 1300px;margin: auto;  }
+.txt1{float: left; width: 35%; padding: 10px; }
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.txt2{float: left; width: 35%; padding: 10px;  text-align: right;}
+.txt3{float: left; width: 22%; padding: 10px;  text-align: right;}
+#page2{ width: 100%; }
+.logo{  width: 20%; float: left; }
+.logo img{ width: 200px;margin: 10px;}
+.txt4{  width: 40%; float: left;  font-size: 17px;}
+.txt4 ul li{  display: inline-block; padding: 8px;}
+.txt4 ul li a{text-decoration: none; color: black;}
+.btn{ width:30%; margin-left: 70px; float:left; padding: 26px; margin-top: 10px;}
+.catbtn{padding: 20px;  text-decoration: none; background-color: red; z-index: 9999;  border-radius: 10px; color: white; font-size: 20px;}
+#page3{ background-image: url(https://www.dezirewebsolutions.in/image/bg.jpg); height:800px;}
+.tx{text-align: center; width: 40%; float: left; margin: 50px; }
+.tx h2{ color: white;}
+.tx h1{ font-size: 50px;}
+.tx p{ color: white;}
+.form{  width:  35%;background-color: white;  padding: 10px;  float: left; margin: 40px; height: 300px; border-radius: 30px; font-size: 20px; padding: 40px;}
+.form input{height: 30px; padding: 8px; margin-bottom: 12px; width:80%;}
+.form i {color: red;}
+.form a{ text-decoration: none; color: white; text-align: center; background-color: red; margin: 150px; padding: 8px; border-radius: 10px; }
+.btn a{float: right;}
+.bxx1{ float: left; width: 30%; border-right: 2px solid; margin: 10px;}
+.bxx1 img{width:50%; } 
+.bxx2 ul li {list-style: none; padding: 10px;}
+.bxx2 { width: 30%; float: left; border-right: 2px solid;  margin: 10px;}
+.bxx3 { width: 30%;float: left;    margin: 10px;}
+.bxx2 ul li i { color:orange;}
+#footer{ margin-top: 10px;}
+#page4{width: 100%;}
+.sec1{ width: 1200px;}
+.sec1 h2{ width: 1200px; text-align: center;}
+.sec1 h1  { width: 1200px; text-align: center; color: red; margin: 0px;}
+.sec2{  border:1px solid;     width: 30%; float: left ; margin: 20px; text-align: center; background-color: azure; border-radius: 20px; margin: 20px;} 
+.sec2 i{ font-size: 100px;  border:2px;}
+.sec2 p{font-size: 15px; color:rgb(8, 8, 8); margin: 20px;}
+.bxxx1{ width: 30%;  text-align: center; float: left; margin: 20px; background-color: azure; border-radius: 30px; height: 500px; border:1px solid;}
+.bxxx1 i { font-size: 80px;}
+.bxxx1 h1{ color: red;}
+.bxxx2 h2 { border-bottom: 30px; margin-top: 0px;}
+.bxxx1 p{ color:rgb(9, 9, 9); margin: 10px; font-size: 15px;}
+.catbtn1{ background-color: blue; color: white; text-decoration: none; padding: 10px; width: 150px; border-radius: 10px; text-align: center;  } 
+.btn{ text-align: center;  width: 165px;} 
+.form textarea{width:80%}
+.form select{width:80%; height:80px;}

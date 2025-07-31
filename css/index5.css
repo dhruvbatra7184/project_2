@@ -1,0 +1,67 @@
+body{padding:0; margin:0}
+.container{width:1500px; margin:auto;}
+a{text-decoration:none; color:#000;}
+.clearfix{clear:both}
+.tt ul { margin: 0;}
+.tt ul li{display: inline-block; padding: 7px; }
+.tt{text-align: right;}
+.tt ul li a{ padding: 15px;}
+#tphdr { width: 100%; background-color:#eceef1;}
+.q{ color: #0088c9;}
+.tt ul li a:hover{ text-decoration: underline ;}
+.lg{ width: 10%; float: left;}
+.lg img{ width:100% ;}
+.mn{ width: 40%; float: left;}
+.mn ul li{ float: left; list-style: none; padding:20px;}
+.mn2{width: 10%; float: left; margin: 30px; font-size: 20px; border-left: 2px solid;  padding: 10px; margin-left: 90px;}
+.mn2 a { color: blue;}
+.mn3{width: 10%; float: left; margin: 30px;  padding: 10px; border-left: 2px solid; }
+.mn4{width: 10%; float: left; margin: 30px;   padding: 10px; }
+.mn3 input{ border: none; font-size: 20px;}
+.mn4 button{ background-color: blue; border-radius: 80px; color: white; font-size: 20px; border-style: none; text-align: right;height: 50px; width: 50px; text-align: center;} 
+#page2{ position: relative;}
+.bnimg{ width: 100%;}
+.txtxt {position: absolute; width: 50%; top: 0;  color: white; margin: 80px;}
+.txtxt button{ background-color: blue;  width: 150px; height: 50px;}
+.txtxt button a{ color: white; }
+.txtxt button:hover{ background-color: red; color: black;}
+#page3{ background-color: purple; }
+.ln1{ float: left; width: 20%; }
+.ln1 h3{ margin: 20px; color: white;}
+.ln2{ float: left; width: 40%;}
+.ln2 h3{margin: 20px; color: white;}
+.ln3{ float: right; margin: 20px;}
+
+.ln3 button{ background-color: blue;  width: 150px; height: 50px;}
+.ln3 button a{ color: white; }
+.ln3  button:hover{ background-color: red; color: black;}
+.ftx{width: 40%; float: left ; margin-left: 200px; font-size: 25px;}
+
+.sim{width: 40%; float: left; margin: 30px;}
+.sim img{ height: 300px;}
+.btnn button{ background-color: blue;  width: 150px; height: 50px;}
+.btnn button a{ color: white; font-size: 15px;} 
+.btnn  button:hover{ background-color: red; color: black;}
+.mncn{ margin: 20px;}
+.txtxt button a{ font-size: 18px;}
+#page5{ background-color: gainsboro;}
+.txct {margin-left: 200px; padding-top: 30px;}
+.txct h1{ }
+.fgm{ margin-left: 200px; margin-top: 30px; padding-top: 10px;}
+.fgm button{ background-color: blue;  width: 100px; height: 50px;  font-size: 20px; border-radius: 10px;}
+.fgm  button:hover{ background-color: red; color: black;}
+.fgm input{ font-size: 20px; background-color:gainsboro ; border: none; border-bottom: 1px solid; margin: 10px; width: 500px;}
+.tt{ float: left; }
+.tt h1{ color: white;}
+.tt button{ float: right;}
+.bbbb{ float: right;}
+.bbbb button{ background-color: purple;  width: 100px; height: 50px;  font-size: 20px; margin: 20px; width: 200px; color: white ; border: 1px solid white;}
+.bbbb button:hover{ background-color: red; color: black;}
+#page6{ background-color: purple;}
+#page7{background-color: gainsboro;  margin-top: 0px;}
+.lili{width: 40%; float: left;}
+.lili ul li{ list-style: none; padding: 10px; font-size: 20px;}
+.lili ul{ margin-top: 0;}
+.txxxxx {width: 40%; float: right;}
+.txxxxx2 img{ width: 50%; margin: 0;  }
+

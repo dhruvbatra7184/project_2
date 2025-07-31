@@ -1,0 +1,43 @@
+body{ padding: 0; margin: 0;}
+a{ text-decoration: none; }
+#search{ background-color: red; padding: 3px;}
+.frm1 { margin-top: 10px;}
+.frm1 a{ color: white; padding: 10px;  text-align: center;}
+.frm1 input{ border-radius: 100px;}
+#header{ background-color: rgb(220, 215, 215);}
+.itm ul li a{ color: black; padding:10px; margin: 10px;}
+.itm ul li a:hover{ color: blue;}
+.carousel-inner { height: 600px;}
+.itm1 p{ text-align: center;   line-height: normal;}
+.itm1 p a{color: black; }
+.itm1 p span{ color: red;}
+.heading h3{ padding: 10px; font-size: 40px; color: white;} 
+#tabs{ padding: 30px; background-image: url(../images/backgrndimgele.jpg); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; height: 630px;} 
+.card:hover{ background-color: rgb(242, 157, 157); color: white; }
+.card{ border-radius: 20px;}
+.frm1 a:hover{color: white;}
+#crsl{ margin: 30px;}
+.btn btn-primary{ float: right; }
+.ttc img{ height: 600px; }
+.card-img-overlay{ padding: 50px; font-size: 25px;}
+#acrdd{ margin-top: 30px; height: 700px;}
+.fll ul li{ list-style: none; margin-left: -25px;}
+.fll { font-size: 15px; margin-top: -90px;}
+.o2 { width: 70px;}
+.o5{ float: right;}
+.o3{ width:310px;}
+.w-40{ width: 40%;}
+.o1 p{ margin-left: -110px; margin-top: 20px;}
+#footerrr{ margin-top: 40px; height: 200px;}
+.o5 p{ margin-right: 80px;}
+.accordion-button::after {
+    flex-shrink: 0;
+    width: var(--bs-accordion-btn-icon-width);
+    height: var(--bs-accordion-btn-icon-width);
+    margin-left: auto;
+    content: ""; 
+    background-image: var(--bs-accordion-btn-icon);
+    background-repeat: no-repeat;
+    background-size: var(--bs-accordion-btn-icon-width);
+    transition: var(--bs-accordion-btn-icon-transition);
+}

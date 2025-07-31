@@ -1,0 +1,22 @@
+body{padding: 0; margin: 0;}
+#topnavigation{  background-color:red; }
+.container{width: 1170px; margin:auto; }
+.clearfix{clear:both;}
+.bx1{ width: 300px ;float: left;}
+.bx2{ width: 600px ;float: left; position: relative;}
+.list li{ display: inline-block;}
+.menu a { padding:22px; text-decoration: none; }
+.dropdown {position: absolute;  margin-left: 0; display: none; top: 50px;      z-index: 9999; background-color: yellow;}
+.dropdown a{  padding: 10px;  display: block;}
+.menu:hover .dropdown{display: block; margin-left: 0;}
+.bnrimg img{width: 100%; }
+.bnrimg{position: relative;}
+.bx3{ left: 0; top: 499px; right: 0;   position: absolute; margin: auto; width: 300px; background:rgba(0,255,255,.2); border-radius: 20px;}
+.bx3 h2{color: white;  font-size: 50px; text-align: center;}
+.bx9{ float: left; margin-top: 35px; padding: 10px; position: relative;} 
+.bx9 img{ width: 350px; height: 300px;}
+.bxtxt{ left: 0; right: 0; top:100px; margin: auto; position: absolute;  text-align: center; font-size: 30px; color: white;}
+.right{ float: right;}
+.ctabtn{ background-color:#f00; width: 110px; padding: 10px; display: block; border-radius: 10px; color: white; text-decoration: none;  margin-top: 8px; text-align: center;}
+.ctabtn:hover{background-color: blue;  }
+#page3{background-image: url(https://www.dezirewebsolutions.in/image/bg.jpg); height:500px; background-attachment: fixed; background-repeat: no-repeat; background-size: 100%;}

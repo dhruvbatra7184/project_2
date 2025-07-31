@@ -1,0 +1,72 @@
+body{ margin: 0; padding: 0;}
+#header{ background-color: #0070ba; color: white; text-align: center;}
+a{ text-decoration: none; }
+.o2 i{ background-color:  #e9eaf8; border-radius: 50%; padding: 9px; color: black;} 
+.o2 { padding: 8px;}
+.o2 i:hover{ background-color: darkblue; color: white;}
+.o3{ background-color:  #fc9a3d; padding: 6px; border-radius: 30px; margin: 5px; width: 240px;}
+.o3 a{ color: white;}
+.o3 i{ background-color: #fba85b; padding: 10px; border-radius: 100%;}
+.o3:hover{ background-color: #0070ba;}
+.logo{ width: 160px; margin-left: 35px;}
+.list{ margin-left: 30px; padding: 10px; }
+.nav-item a{ color: #0070ba;}
+.nav-item a:hover{ color: #fba85b; }
+#productss{ padding: 150px;}
+.p1 button{ width: 260px; padding: 10px;  background-color: #0070ba; color: white; border: none;}
+.p1{ padding: 10px;}
+#abtus{ background-image: url(../images/about-us-background.png); margin-top: -70px; height: 600px; }
+.o5{ background-color:  #fc9a3d; padding: 6px; border-radius: 30px; margin: 5px; width: 140px; text-align: center;}
+.o5 a{ color: white;}
+.o5 i{ background-color: #fba85b; padding: 10px; border-radius: 100%;}
+.o5:hover{ background-color: #0070ba;}
+.p3 h1{color: white;}
+.j2 { padding: 25px;}
+.p3 ul{ margin-bottom: 40px;}
+.k1{ margin: 20px 0px 10px 100px;}
+.k2{ margin: 20px 100px 10px 0px;}
+.k1 h1{ padding:10px 0 10px 0;}
+.k1 p{ padding:10px 0 10px 0;}
+.f1 i{ padding: 30px;  border-radius: 50%; font-size: 65px; color: #fc9a3d; box-shadow: 2px 2px 2px 4px gray; margin-bottom:20px ;}
+.f2 i{ padding: 30px;  border-radius: 50%; font-size: 65px; color: #fc9a3d; box-shadow: 2px 2px 2px 4px gray; margin-bottom:20px ;}
+.f3 i{ padding: 30px;  border-radius: 50%; font-size: 65px; color: #fc9a3d; box-shadow: 2px 2px 2px 4px gray; margin-bottom:20px ;}
+.f1{ margin:50px 0px 10px 100px; text-align: justify;}
+.f2{ margin: 120px 10px 10px 10px ; width: 320px; text-align: justify;}
+.f3{ margin: 50px 100px 10px 0px; text-align: justify;}
+#prdts{ background-image: url(../images/about-us-background.png); height: 200px; margin-top: 20px;}
+.d1{ background-color: white; padding: 15px; margin-top: 20px; border-radius: 10px; width: 250px; margin-left: 10px; box-shadow: 2px 2px 2px 2px gray;}
+.d1 img{ width: 50px;}
+.d1 h1{ color: #fba85b;}
+.d1 span{ color: #0070ba;} 
+#txt1{ margin: 50px 130px 50px 130px; }
+.item img{ border-radius: 15px;}
+#divss{ width: 1150px; margin: 30px 150px 30px 150px; }
+.div1{box-shadow: 2px 2px 2px 3px gray;  border-radius: 15px; }
+.div1 img{border-radius: 15px;}
+.div2{box-shadow: 2px 2px 2px 3px gray;  border-radius: 15px; }
+.div3{box-shadow: 2px 2px 2px 3px gray;      margin-top: 40px; margin-bottom: 40px;  border-radius: 15px; padding: 20px;}
+.div4{box-shadow: 2px 2px 2px 3px gray;      margin-top: 40px;   border-radius: 15px; padding: 20px;}
+.div5{box-shadow: 2px 2px 2px 3px gray;   border-radius: 15px;}
+.div6{box-shadow: 2px 2px 2px 3px gray;  margin-top: -70px;  border-radius: 15px;}
+.div7{box-shadow: 2px 2px 2px 3px gray; margin-top: -140px;  border-radius: 15px; padding: 20px;}
+.div8{box-shadow: 2px 2px 2px 3px gray; margin-top: 40px;   border-radius: 15px; padding: 20px;}
+.fcebk{ width: 43px; font-size: 35px;  background: blue; color: white; transition: width 1.4s; padding: 6px; } 
+.fcebk a{color: white;}
+.fcebk2 a{color: white;}
+.fcebk:hover { width: 90px; box-shadow: 1px 1px 1px gray;}
+.fcebk1{top: 30%; left: 0; position: fixed; z-index: 9999;}
+.fcebk2{ width: 43px; font-size: 35px;  background-image: linear-gradient(to left, white , rgb(228, 57, 86)); color: white; transition: width 1.4s; padding: 6px; } 
+.fcebk2:hover { width: 90px; box-shadow: 1px 1px 1px  gray;}
+.wht i {padding: 15px; border-radius: 50%;  font-size: 37px; background-color: rgb(35, 167, 35); color: white; position: fixed; bottom: 10px;  left: 8px;}
+#jje{ background-color: #ecf1fa; height: 450px; padding: 40px;}
+.jje1 ul li { list-style: none; margin-left: -20px; padding: 10px;}
+.jje1 img{ width: 200px;}
+.jje1 p{ text-align: justify;}
+.jje1 h2{ padding: 13px; text-shadow: 1px 1px 1px ;}
+.jje9 i{ padding: 10px; float: left; border-radius: 50%; background-color: blue; font-size: 20px; color: white; margin-right: 10px;} 
+.jje9 { padding: 10px; padding-top: 0;}
+.jje9 h2{ padding: 13px; text-shadow: 1px 1px 1px ;}
+.dropdown:hover .dropdown-menu{display: block;}
+.sticky{ position: fixed;
+z-index: 9999; background-color: white; width: 100%; top:0; }
+#navigation{transition: all 0.4s ease;}
